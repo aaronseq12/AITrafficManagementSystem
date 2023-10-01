@@ -32,7 +32,9 @@ The Tensorrt based implementation runs only on GPU
 $ cd implementation_with_yolov5s_tensorrt_model
 $ python3 main.py --sources video1.mp4,video2.mp4,video3.mp4,video5.mp4
 ```
+
 A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer. Additional features added to existing basic simulation to take it closer to real-life scenarios and use it effectively in Data Analysis tasks or AI applications.
+
 
 Features added:
 Vehicle Turning Functionality - Unlike the previous simulation where all the vehicles went straight through the intersection, some of the vehicles will be turning left, some right, and some will go straight in the modified simulation.
