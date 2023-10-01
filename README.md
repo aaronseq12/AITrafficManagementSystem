@@ -15,7 +15,7 @@ Yolov5s is selected for this project due to its speed, lightness and accuracy. T
 ## Work flow
 
 <p float="left">
-  <img src="/screenshots/workflow.png" width="600" height=400 />
+  <img src="/Smart+and+Safe+Crosswalk.png" width="600" height=400 />
 
 </p>
 
