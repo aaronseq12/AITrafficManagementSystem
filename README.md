@@ -12,14 +12,6 @@ Yolov5s is selected for this project due to its speed, lightness and accuracy. T
 - Determine a green and red light duration based on comparison of each lanes vehicle density
 - Displays a simulation
 
-## Work flow
-
-<p float="left">
-  <img src="Internet Pic/Smart+and+Safe+Crosswalk.png" width="600" height=400 />
-
-</p>
-
-
 ## Devices Used
 
 - Nvidia Jetson Nano
