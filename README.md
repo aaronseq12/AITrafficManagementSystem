@@ -3,7 +3,7 @@
 This repository represents an ongoing open source research into utilizing different object detection algorithims like YOLO and hardcode designs in IoT systems using softwares like Wokwi and Adurino which provide an intelligent and adaptive traffic light control system. All the code and models are under research and development and subject to change.
 
 The AI based Traffic Light Control System is an inteligent embedded system which applies computer vision to determine the density of cars at each lane on a traffic intersection so as to generate adaptive duration for green and red traffic light at each lane.
-  
+
 Yolov5s is selected for this project due to its speed, lightness and accuracy. The yolov5s model can be found from https://github.com/ultralytics/yolov5 
 
 ## Features
