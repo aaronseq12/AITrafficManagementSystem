@@ -14,7 +14,7 @@ Yolov5s is selected for this project due to its speed, lightness and accuracy. T
 
 ## Devices Used
 
-- Nvidia Jetson Nano
+- Nvidia Jetson Nano 
 - Ip camera 
 
 ## How to run
