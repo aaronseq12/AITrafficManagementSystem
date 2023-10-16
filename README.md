@@ -9,7 +9,7 @@ Yolov5s is selected for this project due to its speed, lightness and accuracy. T
 ## Features
 
 - Detect and counts vehicles from a camera feed on each lane 
-- Determine a green and red light duration based on comparison of each lanes vehicle density
+- Determine a green and red light duration based on comparison of each lanes vehicle density 
 - Displays a simulation
 
 ## Devices Used
