@@ -9,7 +9,7 @@ options={
    'threshold':0.3                  #minimum confidence factor to create a box, greater than 0.3 good
 }
 
-tfnet=TFNet(options)
+tfnet=TFNet(options) 
 inputPath = os.getcwd() + "/test_images/"
 outputPath = os.getcwd() + "/output_images/"
 
