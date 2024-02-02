@@ -1,4 +1,4 @@
-# AI Traffic Management System
+# AI Traffic Management System 
 
 This repository represents an ongoing open source research into utilizing different object detection algorithims like YOLO and hardcode designs in IoT systems using softwares like Wokwi and Adurino which provide an intelligent and adaptive traffic light control system. All the code and models are under research and development and subject to change. 
 
