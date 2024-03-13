@@ -1,6 +1,6 @@
 //First of all, we define the pins where we have 
 //connected the Light emiting diods,
-int red_1=12;
+int red_1=13;
 int orange_1=12;
 int green_1=11;
 int red_2=10;
