@@ -1,3 +1,19 @@
+# It is recommended to use TensorFlow 1.x as darkflow was originally built for it.
+# If you have a newer GPU, you might need a newer version of TensorFlow and CUDA.
+# This may require code changes in the darkflow library.
+tensorflow==1.15.0
+
+# Core libraries for numerical operations and image processing
+numpy==1.19.5
+opencv-python==4.5.4.60
+
+# Library for the traffic simulation GUI
+pygame==2.1.2
+
+# Cython is required to build darkflow's extensions
+cython==0.29.28
+
+
 absl-py==0.11.0
 astor==0.8.1
 cached-property==1.5.2
@@ -27,4 +43,5 @@ tensorflow-estimator==1.13.0
 termcolor==1.1.0
 typing-extensions==3.7.4.3
 Werkzeug==1.0.1
+
 zipp==3.4.0
